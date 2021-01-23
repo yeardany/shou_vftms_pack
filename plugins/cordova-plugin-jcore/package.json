@@ -1,0 +1,57 @@
+{
+  "_from": "cordova-plugin-jcore@^1.3.3",
+  "_id": "cordova-plugin-jcore@1.3.3",
+  "_inBundle": false,
+  "_integrity": "sha1-2VcRt6HiAEduQiTaw00ork594B8=",
+  "_location": "/cordova-plugin-jcore",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-plugin-jcore@^1.3.3",
+    "name": "cordova-plugin-jcore",
+    "escapedName": "cordova-plugin-jcore",
+    "rawSpec": "^1.3.3",
+    "saveSpec": null,
+    "fetchSpec": "^1.3.3"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/cordova-plugin-jcore/download/cordova-plugin-jcore-1.3.3.tgz",
+  "_shasum": "d95711b7a1e200476e4224dac34d28ae4e7de01f",
+  "_spec": "cordova-plugin-jcore@^1.3.3",
+  "_where": "/Users/euros/Documents/webstorm/myApp",
+  "author": {
+    "name": "wilhantian, jiguang"
+  },
+  "bugs": {
+    "url": "https://github.com/jpush/cordova-plugin-jcore/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-jcore",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "jcore for cordova plugin",
+  "homepage": "https://github.com/jpush/cordova-plugin-jcore#readme",
+  "keywords": [
+    "jcore",
+    "jpush",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT License",
+  "name": "cordova-plugin-jcore",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpush/cordova-plugin-jcore.git"
+  },
+  "version": "1.3.3"
+}
