@@ -12,3 +12,4 @@
 + `cordova build android`
 + 手动启动模拟器
 + `cordova run android`
++ 或者使用 `Android Studio` 打开 `platform` 下 `android`
