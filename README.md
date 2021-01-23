@@ -8,7 +8,7 @@
 
 ## 运行
 
-+ 将打包后的 `www` 文件夹拷贝到 `pak` 目录下
++ 将打包后的 `www` 文件夹拷贝到 `shou_vftms_pack` 目录下
 + `cordova build android`
 + 手动启动模拟器
 + `cordova run android`
